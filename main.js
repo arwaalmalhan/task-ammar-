@@ -7,8 +7,8 @@ function capitalizeFirstOnly(text) {function capitalizeFirstOnly(text) {
     if (!text) return "helloWord"; // 
     return text[0].toUpperCase() + text.slice(1).toLowerCase();
 }
-console.log(capitalizeFirstOnly(helloword));# task-html-1
-task html 1
+console.log(capitalizeFirstOnly(helloword));
+// task html 1
 function dashingNumbers(num) {
  function sortInputNumbers(inputStr) {
   const numbers = inputStr
@@ -45,11 +45,11 @@ function addListEnds(arr) {
 function addEvenNumbers(n) {
     
 }const arr = [2, 5, 7, 8, 3];
-const result = sumFromTo(arr, 1, 3);
+const resul = sumFromTo(arr, 1, 3);
 
 console.log("1.n", result); // : 5 + 7 + 8 = 20
-const arr = [2, 5, 7, 8, 3];
-const result = sumFromTo(arr, 1, 3);
+const arry = [2, 5, 7, 8, 3];
+const result = sumFromTo(arry, 1, 3);
 
 function calculateFactorial(num) {
 function factorialLessThanN(n) {
@@ -66,14 +66,14 @@ consol.log(i++);
 }
 
 function calculateAverage(arr) {
-const numbers = [4, 5, 8, 10];
-const avg = calculateAverage(numbers);
+const number= [4, 5, 8, 10];
+const avg = calculateAverage(number);
 
 
 const numbers = [4, 5, 8, 10];
-const avg = calculateAverage(numbers);
+const avga = calculateAverage(numbers);
 
-console.log("6.75:", avg); 
+console.log("6.75:", avga); 
     
 }
 
