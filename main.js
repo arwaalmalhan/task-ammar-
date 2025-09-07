@@ -180,17 +180,18 @@ function isArraySorted(arr) {
   }
 
   return { isSorted, sortedArray: arr };
-}
+  }
+  
 
-// 
 const arr = [40, 10, 30, 20];
 
 const result = checkAndSortArray(arr);
 
-console.log (10.20);
-console.log("10 :20", result.sortedArray);
+// console.log (10.20);
+// console.log("10 :20", result.sortedArray);
   
 }
+
 function isArraySorted(arr) {
   function checkAndSortArray(arr) {
   // 
